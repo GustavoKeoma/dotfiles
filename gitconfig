@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gukeoma@gmail.com
+	email = @users.noreply.github.com
 	name = Gustavo Keoma
